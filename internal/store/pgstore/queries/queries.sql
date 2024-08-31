@@ -1,4 +1,4 @@
--- name: GerRoom :one
+-- name: GetRoom :one
 SELECT
   "id", "theme"
 FROM rooms
